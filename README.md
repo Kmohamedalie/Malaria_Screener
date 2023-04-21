@@ -5,7 +5,7 @@
  ![image](https://user-images.githubusercontent.com/63104472/233649646-e5e9c5f1-012d-46b9-a44e-5c8bbc8d0169.png)
 <hr>
 <br>
- 
+ **Final output:
  ![predicted image](https://user-images.githubusercontent.com/63104472/233652980-794e2424-1b26-4d9e-84c1-92230b250eaf.png)
 
 
