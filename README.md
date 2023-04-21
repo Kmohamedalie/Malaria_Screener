@@ -8,6 +8,14 @@
 <br/>
 <br/>
 <h3><b>Final output:</b></h3>
+## My Output: <br>
+Data: Malaria Cell from [NIH] <br>
+Validation accurary: 95.12% <br>
+Training time: 33m  56s <br>
+Resources: Google Colab Standard GPU <br>
+Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
+<br><hr><br>
+
 <br/>
  
  ![predicted image](https://user-images.githubusercontent.com/63104472/233652980-794e2424-1b26-4d9e-84c1-92230b250eaf.png)
