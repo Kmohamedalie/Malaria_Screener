@@ -1,6 +1,6 @@
 # Malaria_Screener
  This repo replicate the NIH Malaria Screener mobile application that can detect infected blood cells, that helps medical professionals to diagnose quickly and provide aid to fight malaria through out the world.
- [![Step Image](https://img.youtube.com/vi/OYFn26ghAkE/0.jpg)](https://www.youtube.com/watch?v=OYFn26ghAkE)
+[![Machine Learning Meets Fashion](doc/img/ae143b2d.png)](https://youtu.be/RJudqel8DVA)
  
  
  [Natural Library of Medicine](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html)
