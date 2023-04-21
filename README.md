@@ -1,6 +1,5 @@
 # Malaria_Screener
  This repo replicate the NIH Malaria Screener mobile application that can detect infected blood cells, that helps medical professionals to diagnose quickly and provide aid to fight malaria through out the world.
-[![Machine Learning Meets Fashion](doc/img/ae143b2d.png)](https://youtu.be/RJudqel8DVA)
  
  
  [Natural Library of Medicine](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html)
@@ -15,6 +14,11 @@ Validation accurary: 95.12% <br>
 Training time: 33m  56s <br>
 Resources: Google Colab Standard GPU <br>
 Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 <br><hr><br>
 
 <br/>
