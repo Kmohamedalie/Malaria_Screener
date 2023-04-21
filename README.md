@@ -7,6 +7,4 @@
 <hr>
 <br>
 ### Final output:
-![image](https://user-images.githubusercontent.com/63104472/233652366-292a7a92-dc36-435e-b3a7-2c2af16ae30a.png)
-
-
+![predicted image](https://user-images.githubusercontent.com/63104472/233652843-8adb0e80-fa52-47c0-9cd9-e054d98f0644.png)
